@@ -1,0 +1,1 @@
+If drinking a coffee in the morning doesnt wake you up, try deleting a table in a production database!
